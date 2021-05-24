@@ -1,0 +1,40 @@
+html {
+  background-color: #d3d3d3;
+}
+main {
+  text-align: center;
+  font-family: helvetica;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1 {
+  margin: 30px;
+}
+#img-div {
+  margin: 30px;
+  background-color: white;
+}
+#caption-img {
+  font-family: Lucida Console;
+}
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+li {
+  margin: 20px;
+}
+#down-text {
+  font-family: Tahoma;
+  font-size: 20px;
+  font-weight: bold;
+}
+#tribute-info {
+  font-size: 19px;
+  font-weight: bold;
+}
